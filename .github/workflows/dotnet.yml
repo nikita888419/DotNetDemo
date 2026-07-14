@@ -12,9 +12,13 @@ on:
 jobs:
 
   build:
+<<<<<<< HEAD
 
     runs-on: ubuntu-latest
 
+=======
+    runs-on: ubuntu-latest
+>>>>>>> 98f2cb869981c5333669d14077d0bf7a3824b92a
     steps:
 
       - name: Checkout Code
