@@ -1,14 +1,5 @@
-C:\Users\dell\Downloads\DotNetDemo_GitHubActions\bin\Debug\net8.0\DotNetDemo.exe
-C:\Users\dell\Downloads\DotNetDemo_GitHubActions\bin\Debug\net8.0\DotNetDemo.deps.json
-C:\Users\dell\Downloads\DotNetDemo_GitHubActions\bin\Debug\net8.0\DotNetDemo.runtimeconfig.json
-C:\Users\dell\Downloads\DotNetDemo_GitHubActions\bin\Debug\net8.0\DotNetDemo.dll
-C:\Users\dell\Downloads\DotNetDemo_GitHubActions\bin\Debug\net8.0\DotNetDemo.pdb
 C:\Users\dell\Downloads\DotNetDemo_GitHubActions\obj\Debug\net8.0\DotNetDemo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dell\Downloads\DotNetDemo_GitHubActions\obj\Debug\net8.0\DotNetDemo.AssemblyInfoInputs.cache
 C:\Users\dell\Downloads\DotNetDemo_GitHubActions\obj\Debug\net8.0\DotNetDemo.AssemblyInfo.cs
 C:\Users\dell\Downloads\DotNetDemo_GitHubActions\obj\Debug\net8.0\DotNetDemo.csproj.CoreCompileInputs.cache
-C:\Users\dell\Downloads\DotNetDemo_GitHubActions\obj\Debug\net8.0\DotNetDemo.dll
-C:\Users\dell\Downloads\DotNetDemo_GitHubActions\obj\Debug\net8.0\refint\DotNetDemo.dll
-C:\Users\dell\Downloads\DotNetDemo_GitHubActions\obj\Debug\net8.0\DotNetDemo.pdb
-C:\Users\dell\Downloads\DotNetDemo_GitHubActions\obj\Debug\net8.0\DotNetDemo.genruntimeconfig.cache
-C:\Users\dell\Downloads\DotNetDemo_GitHubActions\obj\Debug\net8.0\ref\DotNetDemo.dll
+C:\Users\dell\Downloads\DotNetDemo_GitHubActions\obj\Debug\net8.0\DotNetDemo.sourcelink.json

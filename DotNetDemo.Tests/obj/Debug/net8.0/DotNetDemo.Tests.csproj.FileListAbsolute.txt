@@ -1,0 +1,5 @@
+C:\Users\dell\Downloads\DotNetDemo_GitHubActions\DotNetDemo.Tests\obj\Debug\net8.0\DotNetDemo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\DotNetDemo_GitHubActions\DotNetDemo.Tests\obj\Debug\net8.0\DotNetDemo.Tests.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\DotNetDemo_GitHubActions\DotNetDemo.Tests\obj\Debug\net8.0\DotNetDemo.Tests.AssemblyInfo.cs
+C:\Users\dell\Downloads\DotNetDemo_GitHubActions\DotNetDemo.Tests\obj\Debug\net8.0\DotNetDemo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\DotNetDemo_GitHubActions\DotNetDemo.Tests\obj\Debug\net8.0\DotNetDemo.Tests.sourcelink.json
