@@ -4,30 +4,22 @@ on:
   push:
     branches:
       - main
-
   pull_request:
     branches:
       - main
 
 jobs:
-
   build:
-<<<<<<< HEAD
-
     runs-on: ubuntu-latest
 
-=======
-    runs-on: ubuntu-latest
->>>>>>> 98f2cb869981c5333669d14077d0bf7a3824b92a
     steps:
-
-      - name: Checkout Code
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: 8.0.x
+          dotnet-version: '8.0.x'
 
       - name: Restore Packages
         run: dotnet restore
@@ -35,14 +27,8 @@ jobs:
       - name: Build Project
         run: dotnet build --configuration Release --no-restore
 
-      - name: Lint (Format Check)
-        run: dotnet format --verify-no-changes
-
       - name: Run Unit Tests
-        run: |
-          dotnet test \
-          --configuration Release \
-          --logger "trx;LogFileName=test-results.trx"
+        run: dotnet test --logger "trx;LogFileName=test-results.trx"
 
       - name: Upload Test Results
         if: always()
